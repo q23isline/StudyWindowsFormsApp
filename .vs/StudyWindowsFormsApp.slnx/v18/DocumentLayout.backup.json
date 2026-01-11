@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\StudyWindowsFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33036590-6DF3-4DAA-9B5E-F3954AC395FE}|StudyWindowsFormsApp\\StudyWindowsFormsApp.csproj|c:\\work\\studywindowsformsapp\\studywindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33036590-6DF3-4DAA-9B5E-F3954AC395FE}|StudyWindowsFormsApp\\StudyWindowsFormsApp.csproj|solutionrelative:studywindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\work\\StudyWindowsFormsApp\\StudyWindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "StudyWindowsFormsApp\\Form1.cs",
+              "ToolTip": "C:\\work\\StudyWindowsFormsApp\\StudyWindowsFormsApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "StudyWindowsFormsApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T23:48:58.063Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
